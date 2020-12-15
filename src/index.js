@@ -1,12 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import 'tachyons'; 
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Langar&display=swap');
+</style>
+
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <App  learn="reaxr"/>
   </React.StrictMode>,
   document.getElementById('root')
 );
