@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/senior-robos/static/css/main.6d7c6650.chunk.css",
+    "main.js": "/senior-robos/static/js/main.f0271d07.chunk.js",
+    "main.js.map": "/senior-robos/static/js/main.f0271d07.chunk.js.map",
+    "runtime-main.js": "/senior-robos/static/js/runtime-main.0099e423.js",
+    "runtime-main.js.map": "/senior-robos/static/js/runtime-main.0099e423.js.map",
+    "static/css/2.31461e4f.chunk.css": "/senior-robos/static/css/2.31461e4f.chunk.css",
+    "static/js/2.dd9f9ad5.chunk.js": "/senior-robos/static/js/2.dd9f9ad5.chunk.js",
+    "static/js/2.dd9f9ad5.chunk.js.map": "/senior-robos/static/js/2.dd9f9ad5.chunk.js.map",
+    "static/js/3.874115aa.chunk.js": "/senior-robos/static/js/3.874115aa.chunk.js",
+    "static/js/3.874115aa.chunk.js.map": "/senior-robos/static/js/3.874115aa.chunk.js.map",
+    "index.html": "/senior-robos/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/senior-robos/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.6d7c6650.chunk.css.map": "/senior-robos/static/css/main.6d7c6650.chunk.css.map",
+    "static/js/2.dd9f9ad5.chunk.js.LICENSE.txt": "/senior-robos/static/js/2.dd9f9ad5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0099e423.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.dd9f9ad5.chunk.js",
+    "static/css/main.6d7c6650.chunk.css",
+    "static/js/main.f0271d07.chunk.js"
+  ]
+}
